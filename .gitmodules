@@ -1,0 +1,60 @@
+[submodule "modules/azerothcore-reforging"]
+	path = modules/azerothcore-reforging
+	url = https://github.com/Karmiven/azerothcore-reforging
+[submodule "modules/mod-challenge-modes"]
+	path = modules/mod-challenge-modes
+	url = https://github.com/Karmiven/mod-challenge-modes
+[submodule "modules/mod-ah-bot"]
+	path = modules/mod-ah-bot
+	url = https://github.com/Karmiven/mod-ah-bot
+[submodule "modules/mod-guildhouse"]
+	path = modules/mod-guildhouse
+	url = https://github.com/Karmiven/mod-guildhouse
+[submodule "modules/mod-player-bot-level-brackets"]
+	path = modules/mod-player-bot-level-brackets
+	url = https://github.com/Karmiven/mod-player-bot-level-brackets
+[submodule "modules/mod-playerbots"]
+	path = modules/mod-playerbots
+	url = https://github.com/Karmiven/mod-playerbots
+[submodule "modules/mod-appreciation"]
+	path = modules/mod-appreciation
+	url = https://github.com/Karmiven/mod-appreciation
+[submodule "modules/mod-progression"]
+	path = modules/mod-progression
+	url = https://github.com/Karmiven/mod-progression
+[submodule "modules/mod-junk-to-gold"]
+	path = modules/mod-junk-to-gold
+	url = https://github.com/Karmiven/mod-junk-to-gold
+[submodule "modules/mod-cfbg"]
+	path = modules/mod-cfbg
+	url = https://github.com/Karmiven/mod-cfbg
+[submodule "modules/mod-autobalance"]
+	path = modules/mod-autobalance
+	url = https://github.com/Karmiven/mod-autobalance
+[submodule "modules/mod-weekendbonus"]
+	path = modules/mod-weekendbonus
+	url = https://github.com/Karmiven/mod-weekendbonus
+[submodule "modules/mod-eluna"]
+	path = modules/mod-eluna
+	url = https://github.com/Karmiven/mod-eluna
+[submodule "modules/mod-pvp-titles"]
+	path = modules/mod-pvp-titles
+	url = https://github.com/Karmiven/mod-pvp-titles
+[submodule "modules/mod-groupquests"]
+	path = modules/mod-groupquests
+	url = https://github.com/Karmiven/mod-groupquests
+[submodule "modules/mod-TimeIsTime"]
+	path = modules/mod-TimeIsTime
+	url = https://github.com/Karmiven/mod-TimeIsTime
+[submodule "modules/mod-assistant"]
+	path = modules/mod-assistant
+	url = https://github.com/Karmiven/mod-assistant
+[submodule "modules/mod-ExtendedXP"]
+	path = modules/mod-ExtendedXP
+	url = https://github.com/Karmiven/mod-ExtendedXP
+[submodule "modules/StatBooster"]
+	path = modules/StatBooster
+	url = https://github.com/Karmiven/StatBooster
+[submodule "modules/DungeonRespawn"]
+	path = modules/DungeonRespawn
+	url = https://github.com/Karmiven/DungeonRespawn
